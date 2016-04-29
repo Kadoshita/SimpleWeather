@@ -8,6 +8,10 @@ simpleWeather.jsのサンプルアプリケーションです。
 
 スマートフォンでの表示に対応しています。
 
+以下のURLで見れます。
+
+<https://kadoshita.github.io/SimpleWeather/>
+
 ### 動作環境
 
 * Chrome,FireFoxなどの各種Webブラウザ
